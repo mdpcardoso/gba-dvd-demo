@@ -1,0 +1,8 @@
+compile_commands.json
+.vscode/
+build/
+*.gba
+*.elf
+*.zip
+*.sav
+*.png
